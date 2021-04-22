@@ -1,4 +1,4 @@
-const fibonacci = function (num) {
+const fibonacci = (num) => {
   let n1 = 0;
   let n2 = 1;
   let nu;
